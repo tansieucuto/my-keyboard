@@ -56,10 +56,10 @@
 
         layer_2 {
             bindings = <
-&kp F1             &kp F2    &kp F3    &kp F4      &kp F5     &kp F6           &kp F7  &kp F8  &kp F9     &kp F10           &kp F11        &kp F12
-&kp CAPS           &kp HOME  &kp END   &kp INSERT  &kp DEL    &kp PRINTSCREEN  &kp H   &kp J   &kp MINUS  &kp EQUAL                        &mo 3
-&kp LSHFT                    &email    &username   &pin       &kp V            &kp B   &kp N   &kp M      &kp LEFT_BRACKET  &kp PG_UP      &kp NON_US_BACKSLASH
-&kp RIGHT_CONTROL  &kp RGUI  &kp RALT              &kp SPACE                           &trans             &trans            &kp PAGE_DOWN  &kp APOS
+&kp F1             &kp F2    &kp F3    &kp F4      &kp F5     &kp F6           &kp F7  &kp F8  &kp F9     &kp F10           &kp F11    &kp F12
+&kp CAPS           &kp HOME  &kp END   &kp INSERT  &kp DEL    &kp PRINTSCREEN  &kp H   &kp J   &kp MINUS  &kp EQUAL                    &trans
+&kp LSHFT                    &email    &username   &pin       &kp V            &kp B   &kp N   &kp M      &kp LEFT_BRACKET  &kp PG_UP  &kp NON_US_BACKSLASH
+&kp RIGHT_CONTROL  &kp RGUI  &kp RALT              &kp SPACE                           &trans             &trans            &mo 3      &kp APOS
             >;
         };
 

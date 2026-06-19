@@ -1,0 +1,6 @@
+if SHIELD_CON_KEY
+
+config ZMK_KEYBOARD_NAME
+    default "con_key"
+
+endif

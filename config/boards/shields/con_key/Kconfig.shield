@@ -1,2 +1,0 @@
-config SHIELD_CON_KEY
-    def_bool $(shields_list_contains,con_key)
